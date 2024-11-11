@@ -1,0 +1,8 @@
+Goals for the job tracker program:
+    1. Create a job class for general use in the program.
+    2. Create a list of jobs that the user has applied for that can be added to.
+    3. Make the list editable so that the user can update submitted applications with a result.
+Nice to have extra goals:
+    A. Let the user sort the list of jobs in different ways (company name, date submitted, etc.)
+    B. Add an option to export the job list as an excel sheet.
+    C. Be able to import an excel sheet for the job list?
